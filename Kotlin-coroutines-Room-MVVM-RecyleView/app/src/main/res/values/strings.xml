@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room RecyleView LiveData</string>
+    <string name="app_name1">Kotlin MVVM Room RecyleView LiveData</string>
+</resources>
