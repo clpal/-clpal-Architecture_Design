@@ -15,6 +15,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.*
 import org.jetbrains.anko.custom.async
 import org.jetbrains.anko.doAsync
+import java.util.Observer
 
 class MainActivity : AppCompatActivity() {
     private lateinit var loginViewModel: LoginViewModel
